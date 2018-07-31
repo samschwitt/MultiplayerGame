@@ -1,0 +1,19 @@
+{
+  "name": "multiplayer",
+  "version": "0.0.0",
+  "description": "A multiplayer game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samschwitt/MultiplayerGame.git"
+  },
+  "author": "Sam Schwitters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samschwitt/MultiplayerGame/issues"
+  },
+  "homepage": "https://github.com/samschwitt/MultiplayerGame#readme"
+}
